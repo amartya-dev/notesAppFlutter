@@ -21,20 +21,20 @@ samples, guidance on mobile development, and a full API reference.
 
 Main Page:
 
-![](/home/amartya/repos/notes_flutter_app/screenshots/main_page.jpeg)
+![](/screenshots/main_page.jpeg)
 
 
 
 Add Notes:
 
-![](/home/amartya/repos/notes_flutter_app/screenshots/add_note.jpeg)
+![](/screenshots/add_note.jpeg)
 
 
 
 Added Notes:
 
-![](/home/amartya/repos/notes_flutter_app/screenshots/added_notes.jpeg)
+![](/screenshots/added_notes.jpeg)
 
 Search for notes:
 
-![](/home/amartya/repos/notes_flutter_app/screenshots/search.jpeg)
+![](/screenshots/search.jpeg)
