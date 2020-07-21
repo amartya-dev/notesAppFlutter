@@ -1,6 +1,6 @@
 # notes_flutter_app
 
-A new Flutter project.
+A notes app made using flutter with Bloc Patterns
 
 ## Getting Started
 
@@ -14,3 +14,27 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots:
+
+
+
+Main Page:
+
+![](/home/amartya/repos/notes_flutter_app/screenshots/main_page.jpeg)
+
+
+
+Add Notes:
+
+![](/home/amartya/repos/notes_flutter_app/screenshots/add_note.jpeg)
+
+
+
+Added Notes:
+
+![](/home/amartya/repos/notes_flutter_app/screenshots/added_notes.jpeg)
+
+Search for notes:
+
+![](/home/amartya/repos/notes_flutter_app/screenshots/search.jpeg)
